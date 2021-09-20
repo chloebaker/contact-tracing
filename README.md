@@ -98,3 +98,6 @@ Samantha Huckabay - 09/19/21
 Chloe Baker - 09/19/21
 Zoie Keys - 09/19/21
 Jaylen Coleman - 09/19/21
+
+
+Chloe Baker: My role in the team is to use SQL to work on the database for our project and to organize the team. In order contribute to a positive team experience, I will be open and accepting of criticisms, ask for and give help when necessary, and regularly communicate with my team about my progress. When conflicts come up, I will carefully listen to my teammates point of views and be open to compromise.
