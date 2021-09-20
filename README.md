@@ -101,3 +101,5 @@ Jaylen Coleman - 09/19/21
 
 
 Chloe Baker: My role in the team is to use SQL to work on the database for our project and to organize the team. In order contribute to a positive team experience, I will be open and accepting of criticisms, ask for and give help when necessary, and regularly communicate with my team about my progress. When conflicts come up, I will carefully listen to my teammates point of views and be open to compromise.
+
+Jaylen Coleman: My role in this team is client communication and front-end HTML/CSS. I will be emailing Dr. Kim Maslin, so my team will be fully informed on what our objectives are. I will code the HTML and CSS with detail that reflects effort and excellence. I will be transparent about my struggles and schedule. I'll also encourage my team through every step we take. If a problem comes, I'll be understanding and working to solve it.
